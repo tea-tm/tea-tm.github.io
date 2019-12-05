@@ -6,33 +6,30 @@
 
 ### Research
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BEST: Berkeley Emerent Space Tensegrities](/sample_page)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[LEED: Laboratory for Emergent and Exploratory Devices](/pdf/sample_presentation.pdf)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[InSTAR: Inertial Storage and Recovery lab](http://example.com/)
 
 ---
 
-### Work
+### Work and Volunteer History
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[The Boeing Company](http://example.com/)
+[CiTRiS Invention Lab](http://example.com/)
+[E25 Course Staff](http://example.com/)
+[Design the Future](http://example.com/)
 
 ---
 
 ### Personal Projects 
 
-
-
+[Hey Adam! Button]
+[Open-Source Furniture]
+[Scrap-plywood file storage]
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
