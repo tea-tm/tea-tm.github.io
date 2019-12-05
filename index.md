@@ -2,8 +2,6 @@
 
 ---
 
-### [Resume](/pdf/Resume.pdf)
-
 ### Research
 
 [BEST: Berkeley Emergent Space Tensegrities lab](/sample_page)
