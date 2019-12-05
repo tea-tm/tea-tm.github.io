@@ -6,7 +6,7 @@
 
 ### Research
 
-[BEST: Berkeley Emerent Space Tensegrities](/sample_page)
+[BEST: Berkeley Emergent Space Tensegrities lab](/sample_page)
 
 [LEED: Laboratory for Emergent and Exploratory Devices](/pdf/sample_presentation.pdf)
 
