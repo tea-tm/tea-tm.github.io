@@ -2,7 +2,7 @@
 
 ---
 
-### Resume
+### [Resume](/pdf/Resume.pdf)
 
 ### Research
 
