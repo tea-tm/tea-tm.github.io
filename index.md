@@ -8,10 +8,8 @@
 
 [BEST: Berkeley Emerent Space Tensegrities](/sample_page)
 
----
 [LEED: Laboratory for Emergent and Exploratory Devices](/pdf/sample_presentation.pdf)
 
----
 [InSTAR: Inertial Storage and Recovery lab](http://example.com/)
 
 ---
@@ -19,8 +17,11 @@
 ### Work and Volunteer History
 
 [The Boeing Company](http://example.com/)
+
 [CiTRiS Invention Lab](http://example.com/)
+
 [E25 Course Staff](http://example.com/)
+
 [Design the Future](http://example.com/)
 
 ---
