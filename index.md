@@ -28,9 +28,11 @@
 
 ### Personal Projects 
 
-[Hey Adam! Button]
-[Open-Source Furniture]
-[Scrap-plywood file storage]
+[Hey Adam! Button](/sample_page)
+
+[Open-Source Furniture](/sample_page)
+
+[Scrap-plywood file storage](/sample_page)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
