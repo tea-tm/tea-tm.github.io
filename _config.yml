@@ -3,7 +3,7 @@ logo: "images/circle-face.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  [Resume](/pdf/Resume.pdf)
+  <a href="https://www.tea-tm.github.io/pdf/Resume.pdf/">Resume</a>
   <br><br>
   <a href="https://www.linkedin.com/in/dorotea-macri-430404149/">LinkedIn</a> 
   
