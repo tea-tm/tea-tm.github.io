@@ -4,33 +4,33 @@
 
 ### Research
 
-[BEST: Berkeley Emergent Space Tensegrities lab](/sample_page)
+[BEST: Berkeley Emergent Space Tensegrities lab](/BEST)
 
-[LEED: Laboratory for Emergent and Exploratory Devices](/pdf/sample_presentation.pdf)
+[LEED: Laboratory for Emergent and Exploratory Devices](/LEED)
 
-[InSTAR: Inertial Storage and Recovery lab](http://example.com/)
+[InSTAR: Inertial Storage and Recovery lab](/INSTAR)
 
 ---
 
 ### Work and Volunteer History
 
-[The Boeing Company](http://example.com/)
+[The Boeing Company](/Boeing)
 
-[CiTRiS Invention Lab](http://example.com/)
+[CiTRiS Invention Lab](/ILab)
 
-[E25 Course Staff](http://example.com/)
+[E25 Course Staff](/E25)
 
-[Design the Future](http://example.com/)
+[Design the Future](/Df)
 
 ---
 
 ### Personal Projects 
 
-[Hey Adam! Button](/sample_page)
+[Hey Adam! Button](/heyadam)
 
-[Open-Source Furniture](/sample_page)
+[Open-Source Furniture](/osfurniture)
 
-[Scrap-plywood file storage](/sample_page)
+[Scrap-plywood file storage](/recordfile)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
